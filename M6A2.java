@@ -4,10 +4,7 @@
 //Generates the multiplication table 
 package m6a2;
 
-/**
- *
- * @author james
- */
+
 public class M6A2 {
 
     
@@ -33,4 +30,3 @@ public class M6A2 {
     
     
 }
-
